@@ -385,28 +385,3 @@
 
 
 
-
-/* Small Phones Only (Ultra-Tight Layout) */
-@media (max-width: 500px) {
-  .mobile-bottom-nav {
-    bottom: 10px;       
-    padding: 4px 6px;   
-    gap: 2px;           
-    max-width: 98vw;    
-    border-radius: 50px; 
-  }
-
-  .mobile-pill {
-    padding: 4px 8px;   
-    font-size: 0.72rem; 
-    font-weight: 600;   
-    letter-spacing: -0.02em; 
-    border-radius: 40px;
-  }
-
-  .mobile-pill:hover,
-  .mobile-pill.active {
-    transform: scale(1.02); 
-    background: var(--item-bg-hover);
-  }
-}
