@@ -527,7 +527,7 @@ body {
     }
 
     .light-theme .links a {
-        color: var(--text-muted);
+        color: rgb(211, 211, 211);
     }
 
     .light-theme .links a:hover {
