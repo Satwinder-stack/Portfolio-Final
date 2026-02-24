@@ -551,11 +551,11 @@ header{
 
     .description{
         margin-top: -1em;
-        font-size: 1.1rem;
+        font-size: 0.9rem;
     }
 
     .quote{
-        font-size: 1em;
+        font-size: 0.8em;
         color: white;
     }
 }
