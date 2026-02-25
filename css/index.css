@@ -416,12 +416,14 @@ header{
 
     .cta-link {
         position: fixed;
-        bottom: 2rem;       
-        left: 50%;
-        transform: translateX(-50%); 
+        bottom: 2rem;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
         width: calc(100% - 3rem); 
-        max-width: 500px;        
-        
+        max-width: 500px;         
+        display: flex;
         justify-content: center;
         padding: 1rem;          
         background: rgba(0, 212, 255, 0.1); 
@@ -429,7 +431,6 @@ header{
         border: 1px solid var(--accent-color);
         border-radius: 4px;      
         z-index: 100;
-        margin: 0 auto;
     }
 
     .description {
@@ -535,16 +536,24 @@ header{
     .cta-link {
         position: fixed; 
         bottom: 2rem;    
-        scale: 1;
+        left: 0;
+        right: 0;
+        margin-left: auto;
+        margin-right: auto;
         width: calc(100% - 3rem); 
-        
+        max-width: 400px; 
+        display: flex; 
         justify-content: center;
+        align-items: center;
         padding: 1.2rem;
         background: rgba(0, 212, 255, 0.15);
         backdrop-filter: blur(10px); 
         border: 1px solid var(--accent-color);
         border-radius: 8px;
-        z-index: 100;   
+        z-index: 100;
+        scale: 1;
+        text-decoration: none;
+        -webkit-tap-highlight-color: transparent; 
     }
 
     body {
@@ -559,11 +568,11 @@ header{
     .description{
         margin-top: -1em;
         font-size: 0.9rem;
-		color: white;
+		color: white !important;
     }
 
     .quote{
         font-size: 0.8em;
-        color: white;
+        color: white !important;
     }
 }
