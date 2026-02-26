@@ -1,7 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
   makeDirectDrag('draggable-sidebar', '.drag-handle');
-  makeDirectDrag('mobile-bottom-nav', null);
-
+  if (window.innerWidth > 767) {
+      makeDirectDrag('mobile-bottom-nav', null);
+  }
   function makeDirectDrag(containerId, handleSelector) {
     const container = document.getElementById(containerId);
     if (!container) return;
@@ -24,8 +25,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
       const rect = container.getBoundingClientRect();
 
-      offsetX = (e.clientX || e.touches[0].clientX) - rect.left;
-      offsetY = (e.clientY || e.touches[0].clientY) - rect.top;
+      const clientX = e.clientX || e.touches[0].clientX;
+      const clientY = e.clientY || e.touches[0].clientY;
+      offsetX = clientX - rect.left;
+      offsetY = clientY - rect.top;
 
       container.style.willChange = 'left, top';
       container.classList.add('dragging');
