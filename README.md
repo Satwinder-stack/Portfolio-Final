@@ -36,6 +36,6 @@ The purpose of this e-portfolio is to **document my learning progress, present m
 ---
 ## Copyright
 © 2026 **Satwinder Jeerh**. All Rights Reserved.  
-
+The design, content, and source code of this portfolio are protected under copyright law. Unauthorized reproduction or distribution without permission is prohibited.
 
 
