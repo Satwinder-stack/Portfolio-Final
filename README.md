@@ -18,3 +18,6 @@ The goal of this portfolio is to provide a **centralized platform where visitors
 
 - **Skills & Technologies Section**  
   Highlights programming languages, frameworks, and tools used throughout my development journey.
+
+- **Responsive User Interface**  
+  Designed to provide a smooth experience across desktop and mobile devices.
