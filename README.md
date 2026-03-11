@@ -12,3 +12,6 @@ The goal of this portfolio is to provide a **centralized platform where visitors
 ---
 
 ## Core Features
+
+- **Project Showcase**  
+  Displays various projects including web applications, academic systems, and development exercises.
