@@ -10,3 +10,5 @@ This repository contains my **personal e-portfolio**, showcasing my projects, te
 The goal of this portfolio is to provide a **centralized platform where visitors, recruiters, and collaborators can explore my projects, technical capabilities, and creative approach to building web applications**.
 
 ---
+
+## Core Features
