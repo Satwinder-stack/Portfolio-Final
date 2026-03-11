@@ -25,3 +25,7 @@ The goal of this portfolio is to provide a **centralized platform where visitors
 - **Personal Introduction**  
   Provides insight into my background, goals, and interests as a developer.
 
+- **Project Navigation**  
+  Organized layout that allows users to easily explore different projects and repositories.
+
+
