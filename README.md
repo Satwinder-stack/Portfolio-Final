@@ -2,3 +2,7 @@
 **Satwinder Jeerh**  
 **Role:** Frontend Developer  
 
+---
+
+## Overview
+This repository contains my **personal e-portfolio**, showcasing my projects, technical skills, and development journey as a **Frontend Developer**. The portfolio highlights the work I have created throughout my academic studies and personal projects, demonstrating my growth in **web development, UI design, and modern web technologies**.
