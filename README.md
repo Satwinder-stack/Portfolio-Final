@@ -28,4 +28,6 @@ The goal of this portfolio is to provide a **centralized platform where visitors
 - **Project Navigation**  
   Organized layout that allows users to easily explore different projects and repositories.
 
+---
+
 
