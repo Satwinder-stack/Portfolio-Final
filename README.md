@@ -21,3 +21,7 @@ The goal of this portfolio is to provide a **centralized platform where visitors
 
 - **Responsive User Interface**  
   Designed to provide a smooth experience across desktop and mobile devices.
+
+- **Personal Introduction**  
+  Provides insight into my background, goals, and interests as a developer.
+
