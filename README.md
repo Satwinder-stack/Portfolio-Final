@@ -33,5 +33,7 @@ The goal of this portfolio is to provide a **centralized platform where visitors
 ## Purpose
 The purpose of this e-portfolio is to **document my learning progress, present my technical work, and serve as a professional portfolio for future career opportunities in web development**.
 
+---
+
 
 
