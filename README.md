@@ -35,6 +35,7 @@ The purpose of this e-portfolio is to **document my learning progress, present m
 
 ---
 ## Copyright
+© 2026 **Satwinder Jeerh**. All Rights Reserved.  
 
 
 
